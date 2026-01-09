@@ -61,6 +61,7 @@
     "node": ">=20.19.0"
   },
   "devDependencies": {
+    "@anthropic-ai/claude-code": "^2.1.2",
     "@changesets/cli": "^2.27.7",
     "@types/node": "^24.2.0",
     "@vitest/ui": "^3.2.4",
